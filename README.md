@@ -1,3 +1,5 @@
+The code for the blog post at [https://kivalm.com/blog/dev/Svelte+Markdown](https://kivalm.com/blog/dev/Svelte+Markdown)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
